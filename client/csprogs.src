@@ -1,0 +1,6 @@
+../csprogs.dat
+client/csdefs.qc
+client/math.qc
+client/customdefs.qc
+client/menu.qc
+client/main.qc
